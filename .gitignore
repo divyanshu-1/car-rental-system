@@ -1,0 +1,22 @@
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+node_modules/
+dist/
+
+# Java / Maven Backend
+backend/target/
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE & System files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+Thumbs.db
+*.log
